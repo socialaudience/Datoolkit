@@ -3,8 +3,7 @@ package io.digitalaudience.datatoolkit.Utils;
 import com.loopj.android.http.*;
 
 class DigitalAudienceRestClient {
-    //private static final String BASE_URL = "https://target.digitalaudience.io/bakery/pix/";
-    private String BASE_URL = "https://socialaudience-cookiebaker.conveyor.cloud/pix/";
+    private static final String BASE_URL = "https://target.digitalaudience.io/bakery/pix/";
 
     private AsyncHttpClient client = new AsyncHttpClient();
 
