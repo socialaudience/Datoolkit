@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.1.aar\\c265d2d6d87eeb2cbc15d96a9e8b597a\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "210",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "210",
+                        "endOffsets": "311"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.1.aar\\95a47d984bb5d298c1ab29461e5b06a4\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,268,383,451,526,612,728",
+                        "endColumns": "68,114,67,74,85,115,77",
+                        "endOffsets": "267,382,450,525,611,727,805"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "316,389,508,580,659,749,869",
+                        "endColumns": "72,118,71,78,89,119,81",
+                        "endOffsets": "384,503,575,654,744,864,946"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "951",
+                        "endColumns": "100",
+                        "endOffsets": "1047"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.1.aar\\c265d2d6d87eeb2cbc15d96a9e8b597a\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "210",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "210",
+                        "endOffsets": "311"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.1.aar\\95a47d984bb5d298c1ab29461e5b06a4\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,268,383,451,526,612,728",
+                        "endColumns": "68,114,67,74,85,115,77",
+                        "endOffsets": "267,382,450,525,611,727,805"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "316,389,508,580,659,749,869",
+                        "endColumns": "72,118,71,78,89,119,81",
+                        "endOffsets": "384,503,575,654,744,864,946"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "951",
+                        "endColumns": "100",
+                        "endOffsets": "1047"
+                    }
+                }
+            ]
+        }
+    ]
+}

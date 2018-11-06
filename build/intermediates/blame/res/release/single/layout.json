@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0710ef6d6f1d43bda3a63c4b7db91de6\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\JaimydeNijs\\AndroidStudioProjects\\HelloWorld\\datoolkit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\JaimydeNijs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\77061b4cb227fa9cbe15862428f49fd2\\res\\layout\\notification_template_icon_group.xml"
+    }
+]

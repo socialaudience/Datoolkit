@@ -1,0 +1,11 @@
+io.digitalaudience.datatoolkit.Utils.AdvertisingIdClient
+io.digitalaudience.datatoolkit.Utils.AdvertisingIdClient$1
+io.digitalaudience.datatoolkit.Utils.AdvertisingIdClient$AdInfo
+io.digitalaudience.datatoolkit.Utils.AdvertisingIdClient$AdvertisingConnection
+io.digitalaudience.datatoolkit.Utils.AdvertisingIdClient$AdvertisingInterface
+io.digitalaudience.datatoolkit.Utils.Device
+io.digitalaudience.datatoolkit.Utils.DeviceUtils
+io.digitalaudience.datatoolkit.Utils.DeviceUtils$1
+io.digitalaudience.datatoolkit.Utils.DeviceUtils$2
+io.digitalaudience.datatoolkit.Utils.DigitalAudienceRestClient
+io.digitalaudience.datoolkit.BuildConfig
