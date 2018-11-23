@@ -49,6 +49,7 @@ public class DeviceUtils {
                         params.put("Did", Device.getIdentifier());
                         params.put("Pub", pub);
                         params.put("Mob", Device.getPhoneNumber());
+                        params.put("PlatformId", 3);
                         params.put("Data", Device.getData());
                         // response handler
                         AsyncHttpResponseHandler handler = CreateAsyncHandler();
