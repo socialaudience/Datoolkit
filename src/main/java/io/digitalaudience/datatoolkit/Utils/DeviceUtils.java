@@ -3,10 +3,14 @@ package io.digitalaudience.datatoolkit.Utils;
 import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
+import android.os.Build;
 import android.telephony.TelephonyManager;
 
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 public class DeviceUtils {
 
@@ -35,6 +39,13 @@ public class DeviceUtils {
         return null;
     }
 
+    private String AddModelToData (String Data) throws JSONException {
+        JSONObject payload = new JSONObject(Data);
+        payload.put("Model", Build.MODEL);
+        payload.put("Brand", Build.BRAND);
+        return payload.toString();
+    }
+
     public void sendDevice(final Context appCtx, final String data, final String pub, final boolean debuggable) {
         new Thread(new Runnable() {
             public void run() {
@@ -50,7 +61,7 @@ public class DeviceUtils {
                         params.put("Pub", pub);
                         params.put("Mob", Device.getPhoneNumber());
                         params.put("PlatformId", 3);
-                        params.put("Data", Device.getData());
+                        params.put("Data", AddModelToData(Device.getData()));
                         // response handler
                         AsyncHttpResponseHandler handler = CreateAsyncHandler();
                         // client
